@@ -10,12 +10,14 @@
     <atom:link href="https://eduardoportilho.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>test</title>
-      <link>https://eduardoportilho.github.io/blog/post/test/</link>
+      <title>Hello World</title>
+      <link>https://eduardoportilho.github.io/blog/post/hello-world/</link>
       <pubDate>Sat, 18 Feb 2017 19:54:11 +0100</pubDate>
       
-      <guid>https://eduardoportilho.github.io/blog/post/test/</guid>
-      <description>&lt;p&gt;I read &lt;strong&gt;Good to Great in January 2016&lt;/strong&gt;. An awesome read sharing detailed analysis on how good companies became great.&lt;/p&gt;
+      <guid>https://eduardoportilho.github.io/blog/post/hello-world/</guid>
+      <description>&lt;p&gt;&lt;code&gt;Hello World!&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Yay! we got a Hello World! #ftw&lt;/p&gt;
 </description>
     </item>
     

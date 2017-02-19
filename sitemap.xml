@@ -2,8 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://eduardoportilho.github.io/blog/post/test/</loc>
+    <loc>https://eduardoportilho.github.io/blog/post/hello-world/</loc>
     <lastmod>2017-02-18T19:54:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eduardoportilho.github.io/blog/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://eduardoportilho.github.io/blog/categories/dev/</loc>
+    <lastmod>2017-02-18T19:54:11+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
