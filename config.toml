@@ -1,3 +1,42 @@
 languageCode = "en-us"
 title = "Eduardo Pilla Portilho"
 baseURL = "https://eduardoportilho.github.io/blog/"
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+
+author = "Eduardo Pilla Portilho"
+theme = "hugo-goa"
+
+
+## Site Settings
+[params]
+author = "Eduardo Pilla Portilho"
+intro = "Software Engineer"
+description = "Pragmatic clean coder, thirsty for knowledge and always looking for new ventures. Web developer @ Spotify in Stockholm, Sweden"
+authorimage = "headshot.jpg"
+dateformat = "Jan 2, 2006"
+
+## Social Accounts
+[params.social]
+github = "eduardoportilho"
+instagram = "eduardoportilho"
+linkedin = "eduardoportilho"
+twitter = "eduardoportilho"
+facebook = "eduardo.portilho"
+stackoverflow = "827013"
+email = "eduardo@portilho.com"
+
+## Extras
+[params.extra]
+copyright = "© 2017. Eduardo Pilla Portilho. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)." 
+poweredby = false
+hightlightjs = true
+
+## Main Menu
+[[menu.main]]
+    name = "blog"
+    weight = 100
+    identifier = "blog"
+    url = "/post/"
