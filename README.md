@@ -21,3 +21,7 @@
 * Strat a theme from scratch?
   * about.me layout
 
+* Sustain
+  * CV: https://demo.nurlan.co/hugo-vitae/
+  * github-corner: https://demo.nurlan.co/hugo-sustain/
+
