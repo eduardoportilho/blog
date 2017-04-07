@@ -5,8 +5,8 @@ tags = ["learning", "review", "course"]
 date = "2017-02-26T09:46:14+01:00"
 categories = ["learning"]
 draft = true
-
 +++
+
 # Review: Learning How to Learn - Powerful mental tools to help you master tough subjects
 
 ## Why?
