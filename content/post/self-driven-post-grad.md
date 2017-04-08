@@ -13,9 +13,13 @@ draft = true
 
 - Software development is a very dynamic field and it is vital to keep learning.
 - There is currently a huge offer of online courses, both free and paid, covering every computer topic science.
-- Is up to us to assemble our own syllabus.
+- Is up to us to assemble and appropriate syllabus that matches our career goals.
 
-## Categories
-## Sources
+## My syllabus
+
+- My personal areas of interest are:
+    - Effectiveness and tooling: Knowledge that helps to learn or perform tasks more efficiently.
+    - Web development: The area that I currently work on.
+        - Javascript: The main language used in web development and also moving to became the first trully ubiquitous programming language.
 
 
