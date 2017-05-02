@@ -13,6 +13,7 @@
     <link rel="stylesheet" type="text/css" href="https://eduardoportilho.github.io/blog/css/main.css" />
     <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" />
     <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,400,200bold,400old" />
+    <script src="//d2wy8f7a9ursnm.cloudfront.net/bugsnag-3.min.js" data-apikey="0f9a1365d525e29746fdf52a2dc37e87"></script>
     
     <!--[if lt IE 9]>
 			<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
@@ -67,6 +68,9 @@
 <script src="https://eduardoportilho.github.io/blog/js/main.js"></script>
 
 <script src="https://eduardoportilho.github.io/blog/js/ie10-viewport-bug-workaround.js"></script>
+<script>
+  Bugsnag.notify("PageNotFound", "404 on " + window.location.href);
+</script>
 
 
   </body>
